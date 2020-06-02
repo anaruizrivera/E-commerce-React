@@ -14,12 +14,13 @@ GRID CONTAINER
   width: 300px;
   height: 400px;
 }
-.grid-container{
+.grid-container1{
   display: grid;
   justify-content: center;
   text-align: center;
   padding:10px 10px 10px 10px;
   grid-template-columns: auto auto auto;
+  
 }
 
 /* BUTTON */
@@ -60,11 +61,14 @@ GRID CONTAINER
 .button-1:hover a{
   color:#fff;
 }
+.filter-container{
+  overflow: auto !important;
+}
 
 /* MQ */
 
 @media screen and (max-width: 425px){
-  .grid-container{
+  .grid-container1{
     display: grid;
     justify-content: center;
     text-align: center;
@@ -89,14 +93,93 @@ GRID CONTAINER
 
 }
 
-/* Ipad */
-@media screen and (max-width: 768px){
+/* Ipad  Pro*/
+@media screen and (max-width: 1024px){
+  .grid-img{
+    width: 200px;
+    height: 300px;
+  }
   .grid-container{
     display: grid;
     justify-content: center;
     text-align: center;
-    padding:10px 10px;
+    padding:10px 10px 10px 10px;
     grid-template-columns: auto auto;
+  }
+}
+/* Iphon x */
+@media screen and (max-width:425px){
+  .grid-img{
+    width: 40px;
+    height: 90px;
+  
+  }
+  .grid-container1{
+    display: flex;
+    flex-flow: column wrap;
+    display: flex;
+    align-items: stretch;
+  }
+  .product{
+    display:grid;
+    grid-template-columns: auto;
+ 
+
+  }
+  .filter-container{
+    display: flex;
+    flex-direction: column;
+    height: 4250px;
+  }
+  .button-1{
+    width:120px;
+    height:40px;
+    border:3px solid #34495e;
+    text-align:center;
+    cursor:pointer;
+    position:relative;
+    box-sizing:border-box;
+    overflow:hidden;
+    margin:0 0 40px 0;
+  }
+  .button-1 a{
+    font-family:arial;
+    font-size:16px;
+    color:#34495e;
+    text-decoration:none;
+    line-height:50px;
+    transition:all .5s ease;
+    z-index:2;
+    position:relative;
+  }
+  .eff-1{
+    width:140px;
+    height:50px;
+    top:-2px;
+    right:-140px;
+    background:#34495e;
+    position:absolute;
+    transition:all .5s ease;
+    z-index:1;
+  }
+  .button-1:hover .eff-1{
+    right:0;
+  }
+  .button-1:hover a{
+    color:#fff;
+  }
+ 
+}
+
+/* Ipad */
+@media screen and (max-width: 768px){
+  .grid-container1{
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    padding:10px 10px;
+    grid-template-columns: auto;
+    
    
   }
   .grid-img{
@@ -110,7 +193,7 @@ GRID CONTAINER
 }
 /* Tablet */
 @media screen and (min-width: 778px) and (max-width:1000px) {
- .grid-container{
+ .grid-container1{
     display: grid;
   grid-template-columns: auto auto;
   text-align: center;

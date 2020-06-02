@@ -49,7 +49,9 @@ class Filter extends React.Component {
 
           </select>
         </div>
+        <section className="filter-container">
         <div className="grid-container">
+        <div className="grid-container1">
           {ecommerceProducts.ecommerceProducts.map(item => {
             if (type === 'default' && cost === 'default') {
               return <Products item={item} />
@@ -59,7 +61,9 @@ class Filter extends React.Component {
               return <Products item={item} />
             }
           })}
+          </div>
         </div>
+        </section>
       </React.Fragment>
     );
   }

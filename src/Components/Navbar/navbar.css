@@ -79,3 +79,20 @@
      }
 
  }
+ /* Iphon x */
+ /* @media screen and(max-width:375){
+   .logo_image{
+      float: left;
+     height: 60px;
+     width: 60px;
+     margin: 24px;
+     border-radius: 20px;
+  }
+   #navbar {
+      background:grey;
+      color: #fff;
+     
+     
+      
+   }
+ } */
