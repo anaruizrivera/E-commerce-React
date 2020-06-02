@@ -16,7 +16,7 @@ Once you have done that, install the node packages, by running `npm i` on your c
 # Built With
 1.React
 
-#React Netlify
+##React Netlify
 -[React Netlify](https://anaruizrivera-e-commerce-project.netlify.app/)
 
 # Authors
