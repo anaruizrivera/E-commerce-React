@@ -1,0 +1,37 @@
+/* Footer */
+
+#footer{
+    background: grey;
+    color: black;
+    padding: 20px 20px;
+    text-align: center;
+    
+   }
+   
+   
+   /* Social Media Links */
+   .fa {
+    padding: 20px;
+    font-size: 40px;
+    width: 50px;
+   
+    text-align: center;
+    text-decoration: none;
+   }
+   .fa:hover {
+    opacity: 0.7;
+   }
+   .fa-facebook {
+    color: skyblue;
+   }
+   
+   .fa-twitter {
+    color: skyblue;
+   }
+   
+   .fa-youtube {
+    color: skyblue;
+   }
+   .fa-instagram {
+    color: skyblue;
+   }

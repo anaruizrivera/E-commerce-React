@@ -1,0 +1,115 @@
+{
+    "ecommerceProducts":[
+        {
+            "id": 1,
+            "image": "https://cdn.shopify.com/s/files/1/1132/3440/products/image_ba0360a8-72a4-4835-b080-fa96adbe5697_large.jpg?v=1571709519",
+            "title":"QUAY EYEWEAR",
+            "price":"$300.00",
+            "description":"After Hours // Black Smoke",
+            "type": "Best Selling",
+            "cost":"high"
+            
+        },
+        {
+            "id": 2,
+            "image": "https://cdn.shopify.com/s/files/1/1132/3440/products/image_8ca3a2a0-f68b-422a-b89a-e54b6f157d20_large.jpg?v=1571709518",
+            "title":"QUAY EYEWEAR",
+            "price":"$70.00",
+            "description":"After Hours // Orange Tort",
+            "type": "Best Selling",
+            "cost":"low"
+        },
+        {
+            "id": 3,
+            "image": "https://cdn.shopify.com/s/files/1/1132/3440/products/BE894683-9B8E-4A4D-A205-3BF8F878D4F9_large.jpg?v=1582767395",
+            "title":"QUAY EYEWEAR",
+            "price":"$200.99",
+            "description":"After Hours // Shiny Black/Smoke",
+            "type": "Best Selling",
+            "cost":"medium"
+        },
+        {
+            "id": 4,
+            "image": "https://cdn.shopify.com/s/files/1/1132/3440/products/41D1EACB-611D-4D3A-8C5D-4BA7FE8FD6D3_large.jpg?v=1582767898",
+            "title":"QUAY EYEWEAR",
+            "price":"$89.00",
+            "description":"After Hours // Tort Brown/Brown Fade",
+            "type": "Good",
+            "cost":"low"
+
+        },
+        {
+            "id": 5,
+            "image": "https://cdn.shopify.com/s/files/1/1132/3440/products/image_68e83e5c-68c5-4384-b1c4-8c850e6309e0_large.jpg?v=1571709559",
+            "title":"FOXWOOD",
+            "price":"$210.95",
+            "description":"Jimbaran Bay Dress // Bronze",
+            "type": "Good",
+            "cost":"medium"
+
+        },
+        {
+            "id": 6,
+            "image": "https://cdn.shopify.com/s/files/1/1132/3440/products/3DE9E395-9962-4371-A7CB-9DBE80B6245D_1024x1024.jpg?v=1584746274",
+            "title":"COOPER ST",
+            "price":"$234.00",
+            "description":"Mallorca Long Sleeve Midi Dress",
+            "type": "Good",
+            "cost":"medium"
+        },
+        {
+            "id": 7,
+            "image": "https://cdn.shopify.com/s/files/1/1132/3440/products/0A2718A0-10C0-4A3C-9BF7-25B03B942BE4_large.jpg?v=1584140046",
+            "title":"Black Dress",
+            "price":"$300.00",
+            "description":"Roar Dress // Navy With White Spot",
+            "type": "Good",
+            "cost":"high"
+        },
+        {
+            "id": 8,
+            "image": "https://cdn.shopify.com/s/files/1/1132/3440/products/BB7D066F-4D44-477E-A16B-6658B304187E_large.jpg?v=1582244301",
+            "title":"NYNE",
+            "price":"$249.00",
+            "description":"Distant Long Sleeve Dress",
+            "type": "Good",
+            "cost":"high"
+        },
+        {
+            "id": 9,
+            "image": "https://cdn.shopify.com/s/files/1/1132/3440/products/image_5ef86f26-7e84-40f9-bb27-109229e1b115_large.jpg?v=1575416763",
+            "title":"COMMONERS ALIKE",
+            "price":"$69.00",
+            "description":"Crafted from 100% slub cotton jersey. Rib neckline.",
+            "type": "Good",
+            "cost":"low"
+        },
+        {
+            "id": 10,
+            "image": "https://cdn.shopify.com/s/files/1/1132/3440/products/916947EA-3F2D-4201-ABD6-3B0655E60BB6_large.jpg?v=1589940159",
+            "title":"COMMONERS ALIKE",
+            "price":"$69.00",
+            "description":"Amelie Top",
+            "type": "Good",
+            "cost":"low"
+        },
+        {
+            "id": 11,
+            "image": "https://cdn.shopify.com/s/files/1/1132/3440/products/image_4892fa8a-aa18-475b-9ead-b6a265fbc413_1024x1024.jpg?v=1578882152",
+            "title":"STAPLE + CLOTH",
+            "price":"$219.00",
+            "description":"Rains’ Curve Jacket is a classic ",
+            "type": "Good",
+            "cost":"medium"
+        },
+        {
+            "id": 12,
+            "image": "https://cdn.shopify.com/s/files/1/1132/3440/products/BC83D6AA-E091-4DFF-93EF-E7CF9CDA4632_large.jpeg?v=1575353420",
+            "title":"Geneva V Neck Top",
+            "price":"$200.90",
+            "description":"Long sleeved v necked top.",
+            "type": "Best Selling",
+            "cost":"medium"
+        }
+    ]
+}
