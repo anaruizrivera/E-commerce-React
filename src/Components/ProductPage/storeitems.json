@@ -110,6 +110,87 @@
             "description":"Long sleeved v necked top.",
             "type": "Best Selling",
             "cost":"medium"
+        },
+        {
+            "id": 13,
+            "image": "https://cdn.shopify.com/s/files/1/1132/3440/products/image_c7e78445-5144-4b7c-9c96-2093b32584c2_large.jpg?v=1588494226",
+            "title":"REMAIN",
+            "price":"$129.00",
+            "description":"Bella Cami // Black",
+            "type": "Best Selling",
+            "cost":"medium"
+        },
+        {
+            "id": 14,
+            "image": "https://cdn.shopify.com/s/files/1/1132/3440/products/6FFFAD78-EC99-424E-BEB1-7795FC323A77_1024x1024.jpg?v=1583973427",
+            "title":"Cali Maxi Skirt // Black",
+            "price":"$199.00",
+            "description":"Make a statement in the Cali Skirt!",
+            "type": "Good",
+            "cost":"medium"
+        },
+        {
+            "id": 15,
+            "image": "https://cdn.shopify.com/s/files/1/1132/3440/products/0B196B26-B6D9-47F6-830E-0F1F3EC184E7_1024x1024.jpg?v=1583972163",
+            "title":"Carter Dress // Black",
+            "price":"$239.00",
+            "description":"A timeless piece to add to your collection.",
+            "type": "Best Selling",
+            "cost":"high"
+        },
+        {
+            "id": 16,
+            "image": "https://cdn.shopify.com/s/files/1/1132/3440/products/image_8c16e712-7d69-4246-afc6-ae8d927ec5c3_1024x1024.jpg?v=1588493861",
+            "title":"Carter Dress // Woodstock",
+            "price":"$239.00",
+            "description":"A timeless piece to add to your collection",
+            "type": "Good",
+            "cost":"high"
+        },
+        {
+            "id": 17,
+            "image": "https://cdn.shopify.com/s/files/1/1132/3440/products/image_b2e82224-9ffd-4749-b902-9de316807c95_1024x1024.jpg?v=1582509469",
+            "title":"Norton Tee",
+            "price":"$89.00",
+            "description":"",
+            "type": "Best Selling",
+            "cost":"low"
+        },
+        {
+            "id": 18,
+            "image": "https://cdn.shopify.com/s/files/1/1132/3440/products/image_0be0da45-8ca8-4569-8c3d-fd1d1ea0f20b_1024x1024.jpg?v=1572834553",
+            "title":"Lily Skirt",
+            "price":"$84.00",
+            "description":"Mini Skirt, Frilled Hem",
+            "type": "Good",
+            "cost":"low"
+        },
+        {
+            "id": 19,
+            "image": "https://cdn.shopify.com/s/files/1/1132/3440/products/image_b9dafdbd-a7d6-4ec5-8399-99694ac966b0_1024x1024.jpg?v=1571709542",
+            "title":"Melva Faux Fur Coat",
+            "price":"$359.00",
+            "description":"A soft faux fur coat for a snuggly and warm",
+            "type": "Best Selling",
+            "cost":"high"
+        },
+        {
+            "id": 20,
+            "image": "https://cdn.shopify.com/s/files/1/1132/3440/products/image_13f724fe-df2b-4a4a-8d8e-9a9d4fe7aede_1024x1024.jpg?v=1571709505",
+            "title":"Bridget Kimono - Stars",
+            "price":"$50.00",
+            "description":"The Bridget Kimono is designed to be worn",
+            "type": "Best Selling",
+            "cost":"low"
+        },
+        {
+            "id": 21,
+            "image": "https://cdn.shopify.com/s/files/1/1132/3440/products/RMNW20011_LENNY_JACKET_ZEBRA_2_2048x2048_9b6953d5-94d8-4b58-ae65-27d538fcd595_1024x1024.jpg?v=1587623048",
+            "title":"Lenny Jacket",
+            "price":"$289.00",
+            "description":"The classic liner jacket gets the Remain",
+            "type": "Best Selling",
+            "cost":"high"
         }
     ]
 }

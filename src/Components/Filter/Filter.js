@@ -2,6 +2,7 @@ import React from "react";
 import ecommerceProducts from "../ProductPage/storeitems.json";
 import Products from "../ProductPage/Products";
 import "../ProductPage/product.css"
+import "../Filter/filter.css"
 
 class Filter extends React.Component {
   constructor(props) {
