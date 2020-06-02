@@ -23,6 +23,7 @@ class Filter extends React.Component {
 
   render() {
     const { type, cost } = this.state;
+    const propsType= this.props.type;
     return (
       <React.Fragment>
         <div className="gridfilter">
@@ -31,8 +32,8 @@ class Filter extends React.Component {
           </label>
           <select value={type} onChange={this.handlePriceDropdownSelect}>
             <option value="default">All</option>
-            <option value={this.props.type}>Best Selling</option>
-            <option value={this.props.type}>Good</option>
+            <option value={propsType}>Best Selling</option>
+            <option value={propsType}>Good</option>
           </select>
         </div>
 
